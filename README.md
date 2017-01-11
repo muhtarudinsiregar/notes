@@ -1,5 +1,9 @@
 # Note
-
+## Laravel
+ 1. Event + Listener
+ 
+ [http://dimensitutupbotol.blogspot.co.id/2016/10/simple-event-listener-example-in.html](http://dimensitutupbotol.blogspot.co.id/2016/10/simple-event-listener-example-in.html)
+ 
 ## NPM
  1. `http://gitmeet.com/post/how-to-create-a-node-js-global-module`
  
