@@ -1,4 +1,11 @@
 # Note
+catatan/tutorial selama ini.
+
+## Codeigniter
+ 1. enable profiling globally
+ 
+ https://maheshvnit.wordpress.com/2013/10/23/how-to-enable-site-wide-profiling-in-codeigniter/ 
+
 ## Laravel
  1. Event + Listener
  
