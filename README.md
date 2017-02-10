@@ -4,7 +4,11 @@ catatan/tutorial selama ini.
 ## Codeigniter
  1. enable profiling globally
  
- https://maheshvnit.wordpress.com/2013/10/23/how-to-enable-site-wide-profiling-in-codeigniter/ 
+ https://maheshvnit.wordpress.com/2013/10/23/how-to-enable-site-wide-profiling-in-codeigniter/
+ 
+ 2. CodeIgniter 3.13 pagination url page number not working properly
+ 
+ http://stackoverflow.com/questions/10176518/codeigniter-pagination-url-page-number
 
 ## Laravel
  1. Event + Listener
