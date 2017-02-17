@@ -15,6 +15,10 @@ catatan/tutorial selama ini.
  
  [http://dimensitutupbotol.blogspot.co.id/2016/10/simple-event-listener-example-in.html](http://dimensitutupbotol.blogspot.co.id/2016/10/simple-event-listener-example-in.html)
  
+ 2. Add helpers di laravel
+ 
+ https://laracasts.com/discuss/channels/general-discussion/best-practices-for-custom-helpers-on-laravel-5
+ 
 ## NPM
  1. `http://gitmeet.com/post/how-to-create-a-node-js-global-module`
  
