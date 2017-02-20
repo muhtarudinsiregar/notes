@@ -1,5 +1,5 @@
 # Note
-catatan/tutorial selama ini.
+setting/catatan/tutorial selama ini.
 
 ## Codeigniter
  1. enable profiling globally
@@ -26,3 +26,11 @@ catatan/tutorial selama ini.
  1. How to test promise
  
  [http://stackoverflow.com/questions/15058847/how-to-test-promises-with-mocha](http://stackoverflow.com/questions/15058847/how-to-test-promises-with-mocha)
+
+
+#Tools
+
+## Sublime Text
+ 1. convert tabs to space
+ 
+ https://css-tricks.com/changing-spaces-tabs-sublime-text/
