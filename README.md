@@ -21,6 +21,7 @@ setting/catatan/tutorial selama ini.
  
 ## NPM
  1. `http://gitmeet.com/post/how-to-create-a-node-js-global-module`
+ 2. check global package list `npm list -g --depth=0`
  
 ## Mocha
  1. How to test promise
