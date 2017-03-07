@@ -9,6 +9,10 @@ setting/catatan/tutorial selama ini.
  2. CodeIgniter 3.13 pagination url page number not working properly
  
  http://stackoverflow.com/questions/10176518/codeigniter-pagination-url-page-number
+ 
+ 3. Composer with Codeigniter
+ 
+ https://philsturgeon.uk/php/2012/05/07/composer-with-codeigniter/
 
 ## Laravel
  1. Event + Listener
