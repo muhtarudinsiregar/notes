@@ -1,3 +1,9 @@
+# Tutorial
+
+ 1. Git Tips & Tricks
+ 
+ https://wikileaks.org/ciav7p1/cms/page_1179773.html
+
 # Note
 setting/catatan/tutorial selama ini.
 
