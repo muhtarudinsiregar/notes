@@ -3,6 +3,10 @@
  1. Git Tips & Tricks
  
  https://wikileaks.org/ciav7p1/cms/page_1179773.html
+ 
+ 2. Building a single Command Application with Symfony Console
+ 
+ https://pehapkari.cz/blog/2017/01/05/symfony-console-from-scratch/
 
 # Note
 setting/catatan/tutorial selama ini.
