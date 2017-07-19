@@ -11,6 +11,11 @@
 # Note
 setting/catatan/tutorial selama ini.
 
+## Angular 2/4 or Ionic 
+ 1. Cant Resolve all parameter
+ 
+ https://angular.io/guide/dependency-injection#configuring-the-injector
+ 
 ## Codeigniter
  1. enable profiling globally
  
