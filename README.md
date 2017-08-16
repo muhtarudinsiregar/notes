@@ -20,18 +20,22 @@ setting/catatan/tutorial selama ini.
  
  https://stackoverflow.com/questions/35669087/get-error-message-from-angular-2-http
  
+ 3. Ionic ion-img center
+ 
+ https://forum.ionicframework.com/t/how-to-align-the-img-to-center/48322/6
+ 
 ## Codeigniter
  1. enable profiling globally
  
- https://maheshvnit.wordpress.com/2013/10/23/how-to-enable-site-wide-profiling-in-codeigniter/
+  https://maheshvnit.wordpress.com/2013/10/23/how-to-enable-site-wide-profiling-in-codeigniter/
  
  2. CodeIgniter 3.13 pagination url page number not working properly
  
- http://stackoverflow.com/questions/10176518/codeigniter-pagination-url-page-number
+  http://stackoverflow.com/questions/10176518/codeigniter-pagination-url-page-number
  
  3. Composer with Codeigniter
  
- https://philsturgeon.uk/php/2012/05/07/composer-with-codeigniter/
+  https://philsturgeon.uk/php/2012/05/07/composer-with-codeigniter/
 
 ## Laravel
  1. Event + Listener
