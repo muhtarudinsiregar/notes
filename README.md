@@ -16,6 +16,10 @@ setting/catatan/tutorial selama ini.
  
  https://angular.io/guide/dependency-injection#configuring-the-injector
  
+ 2. Get error body in observable
+ 
+ https://stackoverflow.com/questions/35669087/get-error-message-from-angular-2-http
+ 
 ## Codeigniter
  1. enable profiling globally
  
