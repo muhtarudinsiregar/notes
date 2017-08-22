@@ -24,6 +24,10 @@ setting/catatan/tutorial selama ini.
  
  https://forum.ionicframework.com/t/how-to-align-the-img-to-center/48322/6
  
+ 4. Angular2 - interpolated object is 'undefined' but console.log() works
+ 
+ https://stackoverflow.com/questions/41292832/angular2-interpolated-object-is-undefined-but-console-log-works
+ 
 ## Codeigniter
  1. enable profiling globally
  
