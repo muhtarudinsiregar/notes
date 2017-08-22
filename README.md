@@ -28,6 +28,10 @@ setting/catatan/tutorial selama ini.
  
  https://stackoverflow.com/questions/41292832/angular2-interpolated-object-is-undefined-but-console-log-works
  
+ 5. How to remote debug ionic in device with chrome
+ 
+ https://stackoverflow.com/questions/32832135/how-to-use-chrome-remote-debugging-with-ionic-framework
+ 
 ## Codeigniter
  1. enable profiling globally
  
