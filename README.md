@@ -54,6 +54,10 @@ setting/catatan/tutorial selama ini.
  
  https://laracasts.com/discuss/channels/general-discussion/best-practices-for-custom-helpers-on-laravel-5
  
+ 3. Access laravel form external device
+ 
+ https://stackoverflow.com/questions/30675025/access-to-laravel-5-app-locally-from-an-external-device
+ 
 ## NPM
  1. `http://gitmeet.com/post/how-to-create-a-node-js-global-module`
  2. check global package list `npm list -g --depth=0`
