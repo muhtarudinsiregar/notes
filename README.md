@@ -33,10 +33,16 @@ setting/catatan/tutorial selama ini.
  https://stackoverflow.com/questions/32832135/how-to-use-chrome-remote-debugging-with-ionic-framework
  
  6. Cannot use ionic component in custom component
+ 
  https://stackoverflow.com/questions/43425090/ionic-3-cant-use-ion-components-inside-my-custom-components
  
  7. Cannot call custom component in lazy loading pages
+ 
  https://stackoverflow.com/questions/43507800/custom-component-in-ionic-v3
+ 
+ 8. No provider for http in ionic after register provider.
+ 
+ https://forum.ionicframework.com/t/no-provider-for-http-error-in-ionic/85762/4
  
 ## Codeigniter
  1. enable profiling globally
