@@ -44,6 +44,10 @@ setting/catatan/tutorial selama ini.
  
  https://forum.ionicframework.com/t/no-provider-for-http-error-in-ionic/85762/4
  
+ 9. Custom class helper in angular 2 /ionic
+ 
+ https://stackoverflow.com/questions/35665903/how-to-write-helper-class-in-typescript
+ 
 ## Codeigniter
  1. enable profiling globally
  
