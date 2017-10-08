@@ -95,3 +95,8 @@ setting/catatan/tutorial selama ini.
  1. convert tabs to space
  
  https://css-tricks.com/changing-spaces-tabs-sublime-text/
+ 
+ ## Manjaro Arch Linux
+ 1. Install android studio
+ 
+  https://www.youtube.com/watch?v=46LPHga49xk
