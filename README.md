@@ -8,6 +8,11 @@
  
  https://pehapkari.cz/blog/2017/01/05/symfony-console-from-scratch/
 
+3. How to updated forked repo
+
+ https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
+
+
 # Note
 setting/catatan/tutorial selama ini.
 
