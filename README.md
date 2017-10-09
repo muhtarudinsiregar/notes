@@ -104,3 +104,7 @@ setting/catatan/tutorial selama ini.
  1. Install android studio
  
   https://www.youtube.com/watch?v=46LPHga49xk
+  
+ 2. NVM command not found in zsh
+ 
+ https://github.com/creationix/nvm/issues/576
