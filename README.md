@@ -53,6 +53,10 @@ setting/catatan/tutorial selama ini.
  
  https://stackoverflow.com/questions/35665903/how-to-write-helper-class-in-typescript
  
+ 10. Added custom pipes in ionic
+ 
+ https://forum.ionicframework.com/t/solved-pipe-not-found-in-custom-component/95179
+ 
 ## Codeigniter
  1. enable profiling globally
  
