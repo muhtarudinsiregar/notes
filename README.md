@@ -108,3 +108,7 @@ setting/catatan/tutorial selama ini.
  2. NVM command not found in zsh
  
  https://github.com/creationix/nvm/issues/576
+
+3. Set JAVA_HOME
+
+https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-all-users
