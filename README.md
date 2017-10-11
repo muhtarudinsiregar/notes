@@ -57,6 +57,10 @@ setting/catatan/tutorial selama ini.
  
  https://forum.ionicframework.com/t/solved-pipe-not-found-in-custom-component/95179
  
+ 11. Setting backButton android hardware in ionic
+ 
+ https://alltechgyaan.wordpress.com/2016/09/20/a-new-gyaan-ionic2/
+ 
 ## Codeigniter
  1. enable profiling globally
  
