@@ -61,7 +61,9 @@ setting/catatan/tutorial selama ini.
  
  https://alltechgyaan.wordpress.com/2016/09/20/a-new-gyaan-ionic2/
  
- 12. Ionic v3 - Runtime Error Uncaught (in promise): removeView was not found
+ 12. Ionic v3 - Runtime Error Uncaught (in promise): removeView was not found or error inserViewt was destroy
+ 
+ https://stackoverflow.com/questions/43828359/ionic-error-uncaught-in-promise-removeview-was-not-found
  
  https://github.com/ionic-team/ionic/issues/11443
  
