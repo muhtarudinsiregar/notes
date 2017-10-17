@@ -12,6 +12,9 @@
 
  https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
 
+3. How to make calendar with ionic2 calendar
+
+https://devdactic.com/ionic-calendar-app/
 
 # Note
 setting/catatan/tutorial selama ini.
