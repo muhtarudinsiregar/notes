@@ -69,6 +69,12 @@ setting/catatan/tutorial selama ini.
  https://stackoverflow.com/questions/43828359/ionic-error-uncaught-in-promise-removeview-was-not-found
  
  https://github.com/ionic-team/ionic/issues/11443
+
+## React Native
+1. error when run `npm start` in manjaro linux
+
+https://github.com/react-community/create-react-native-app/issues/234
+
  
 ## Codeigniter
  1. enable profiling globally
@@ -125,3 +131,4 @@ setting/catatan/tutorial selama ini.
 3. Set JAVA_HOME
 
 https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-all-users
+
