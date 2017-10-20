@@ -69,7 +69,14 @@ setting/catatan/tutorial selama ini.
  https://stackoverflow.com/questions/43828359/ionic-error-uncaught-in-promise-removeview-was-not-found
  
  https://github.com/ionic-team/ionic/issues/11443
-
+ 
+ 13.Change data ng2-highchart when click
+ 
+ https://github.com/Bigous/ng2-highcharts/issues/44
+ 
+ ```
+ then in foreach assign with new data in chartRef.options.series = newData;
+ ```
 ## React Native
 1. error when run `npm start` in manjaro linux
 
