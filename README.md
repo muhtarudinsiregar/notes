@@ -12,9 +12,13 @@
 
  https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
 
-3. How to make calendar with ionic2 calendar
+4. How to make calendar with ionic2 calendar
 
 https://devdactic.com/ionic-calendar-app/
+
+5.  Run cordova in browser
+
+http://www.tricedesigns.com/2012/07/31/emulating-phonegapcordova-apps-in-the-browser/
 
 # Note
 setting/catatan/tutorial selama ini.
