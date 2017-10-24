@@ -78,6 +78,10 @@ setting/catatan/tutorial selama ini.
  
  https://github.com/Bigous/ng2-highcharts/issues/44
  
+ 14. Error build Android: Execution failed for task ':transformClassesWithDexForDebug'
+ 
+ https://github.com/ionic-team/ionic-cli/issues/1256
+ 
  ```
  then in foreach assign with new data in chartRef.options.series = newData;
  ```
