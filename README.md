@@ -82,6 +82,10 @@ setting/catatan/tutorial selama ini.
  
  https://github.com/ionic-team/ionic-cli/issues/1256
  
+ 15. Application error. The connection to the server was unsuccessful
+ 
+ https://forum.ionicframework.com/t/application-error-the-connection-to-the-server-was-unsuccessful/67584/29
+ 
  ```
  then in foreach assign with new data in chartRef.options.series = newData;
  ```
