@@ -85,10 +85,17 @@ setting/catatan/tutorial selama ini.
  15. Application error. The connection to the server was unsuccessful
  
  https://forum.ionicframework.com/t/application-error-the-connection-to-the-server-was-unsuccessful/67584/29
- 
+  
  ```
  then in foreach assign with new data in chartRef.options.series = newData;
  ```
+ 
+ 16.  error `Template parse errors: 'home-square' is not a known element:`  or case error like no 6 above
+ ```
+ Fixing : 
+ added component.module to your app.module then added in imports inside @ngModule
+ ```
+ 
 ## React Native
 1. error when run `npm start` in manjaro linux
 
