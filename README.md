@@ -20,9 +20,9 @@ https://devdactic.com/ionic-calendar-app/
 
 http://www.tricedesigns.com/2012/07/31/emulating-phonegapcordova-apps-in-the-browser/
 
-6.MomentJS get days name
+ 6. MomentJS get days name
 
-https://stackoverflow.com/questions/27669019/jquery-moment-js-get-day-name-from-date
+ https://stackoverflow.com/questions/27669019/jquery-moment-js-get-day-name-from-date
 
 # Note
 setting/catatan/tutorial selama ini.
