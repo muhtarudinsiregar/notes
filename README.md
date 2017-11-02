@@ -100,6 +100,10 @@ setting/catatan/tutorial selama ini.
  added component.module to your app.module then added in imports inside @ngModule
  ```
  
+ 17. Change ion-navbar color
+ 
+  https://forum.ionicframework.com/t/change-navbar-header-background-colour-ionic/48498/13
+ 
 ## React Native
 1. error when run `npm start` in manjaro linux
 
