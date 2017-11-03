@@ -103,6 +103,9 @@ setting/catatan/tutorial selama ini.
  17. Change ion-navbar color
  
   https://forum.ionicframework.com/t/change-navbar-header-background-colour-ionic/48498/13
+  
+  18. `ionic cordova platform add android` not update package.json for platform. Solve by using command `cordova platform add android@6.3.0` or if you already have platform, remove first, then add again.
+  
  
 ## React Native
 1. error when run `npm start` in manjaro linux
