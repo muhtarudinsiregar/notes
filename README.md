@@ -109,6 +109,10 @@ setting/catatan/tutorial selama ini.
   19. ionic2 remove blue line color input-md
   
   https://stackoverflow.com/questions/42248573/ionic2-remove-blue-line-color-input-md
+  
+  20. Error: Metadata version mismatch for @ionic-native
+  
+  https://github.com/ionic-team/ionic-native/issues/2106
  
 ## React Native
 1. error when run `npm start` in manjaro linux
