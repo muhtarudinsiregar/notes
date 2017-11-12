@@ -106,6 +106,9 @@ setting/catatan/tutorial selama ini.
   
   18. `ionic cordova platform add android` not update package.json for platform. Solve by using command `cordova platform add android@6.3.0` or if you already have platform, remove first, then add again.
   
+  19. ionic2 remove blue line color input-md
+  
+  https://stackoverflow.com/questions/42248573/ionic2-remove-blue-line-color-input-md
  
 ## React Native
 1. error when run `npm start` in manjaro linux
