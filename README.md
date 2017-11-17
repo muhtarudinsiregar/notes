@@ -113,6 +113,10 @@ setting/catatan/tutorial selama ini.
   20. Error: Metadata version mismatch for @ionic-native
   
   https://github.com/ionic-team/ionic-native/issues/2106
+  
+  21. Inline radio button for ionic3
+  
+  https://stackoverflow.com/questions/44227834/label-and-group-radio-buttons-horizontally-aligned
  
 ## React Native
 1. error when run `npm start` in manjaro linux
