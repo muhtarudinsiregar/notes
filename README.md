@@ -117,6 +117,10 @@ setting/catatan/tutorial selama ini.
   21. Inline radio button for ionic3
   
   https://stackoverflow.com/questions/44227834/label-and-group-radio-buttons-horizontally-aligned
+  
+  22. iOS fires both "click" and "press" events from a long press
+  
+  https://github.com/ionic-team/ionic/issues/10306
  
 ## React Native
 1. error when run `npm start` in manjaro linux
