@@ -184,3 +184,9 @@ https://github.com/react-community/create-react-native-app/issues/234
 
 https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-all-users
 
+## Android Studio
+
+1. Android device adb always unauthorized on linux/Mac
+
+https://stackoverflow.com/questions/32672183/android-device-adb-always-unauthorized-on-linux-mac
+
