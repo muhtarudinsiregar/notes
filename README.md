@@ -24,6 +24,10 @@ http://www.tricedesigns.com/2012/07/31/emulating-phonegapcordova-apps-in-the-bro
 
  https://stackoverflow.com/questions/27669019/jquery-moment-js-get-day-name-from-date
 
+ 7. Remove and Add selected value in ion-checkbox multiple
+ 
+ https://forum.ionicframework.com/t/how-to-delete-multiple-item-from-ionic-3-3-list/92783/3
+
 # Note
 setting/catatan/tutorial selama ini.
 
