@@ -125,6 +125,11 @@ setting/catatan/tutorial selama ini.
   22. iOS fires both "click" and "press" events from a long press
   
   https://github.com/ionic-team/ionic/issues/10306
+  
+  23. ERROR in ./node_modules/rxjs/_esm5/observable/BoundNodeCallbackObservable.js
+Module build failed: TypeError: Cannot read property 'type' of undefined
+  
+  https://github.com/angular/angular/issues/20095
  
 ## React Native
 1. error when run `npm start` in manjaro linux
