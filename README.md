@@ -130,6 +130,10 @@ setting/catatan/tutorial selama ini.
 Module build failed: TypeError: Cannot read property 'type' of undefined
   
   https://github.com/angular/angular/issues/20095
+  
+  24. Uncaught (in promise): invalid link: HomePage
+  
+  https://forum.ionicframework.com/t/solved-ionic-lazy-loading-invalid-link-tabspage/88021
  
 ## React Native
 1. error when run `npm start` in manjaro linux
