@@ -46,13 +46,10 @@ setting/catatan/tutorial selama ini.
 - [ Ionic v3 - Runtime Error Uncaught (in promise): removeView was not found or error inserViewt was destroy](https://stackoverflow.com/questions/43828359/ionic-error-uncaught-in-promise-removeview-was-not-found) or https://github.com/ionic-team/ionic/issues/11443
 - [Change data ng2-highchart when click](https://github.com/Bigous/ng2-highcharts/issues/44)
 - [Error build Android: Execution failed for task ':transformClassesWithDexForDebug'](https://github.com/ionic-team/ionic-cli/issues/1256)
-- [Change ion-navbar color]
-(https://forum.ionicframework.com/t/change-navbar-header-background-colour-ionic/48498/13)
+- [Change ion-navbar color](https://forum.ionicframework.com/t/change-navbar-header-background-colour-ionic/48498/13)
 - [ionic2 remove blue line color input-md](https://stackoverflow.com/questions/42248573/ionic2-remove-blue-line-color-input-md)
-- [Error: Metadata version mismatch for @ionic-native]
-(https://github.com/ionic-team/ionic-native/issues/2106)
-- [Inline radio button for ionic3] 
-(https://stackoverflow.com/questions/44227834/label-and-group-radio-buttons-horizontally-aligned)
+- [Error: Metadata version mismatch for @ionic-native](https://github.com/ionic-team/ionic-native/issues/2106)
+- [Inline radio button for ionic3](https://stackoverflow.com/questions/44227834/label-and-group-radio-buttons-horizontally-aligned)
 - [iOS fires both "click" and "press" events from a long press](https://github.com/ionic-team/ionic/issues/10306)
 - [ERROR in ./node_modules/rxjs/_esm5/observable/BoundNodeCallbackObservable.js
 Module build failed: TypeError: Cannot read property 'type' of undefined](  https://github.com/angular/angular/issues/20095)
@@ -87,10 +84,8 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 
 ## Laravel
 - [Event + Listener](http://dimensitutupbotol.blogspot.co.id/2016/10/simple-event-listener-example-in.html)
-- [Add helpers di laravel]
-(https://laracasts.com/discuss/channels/general-discussion/best-practices-for-custom-helpers-on-laravel-5)
-- [Access laravel form external device]
-(https://stackoverflow.com/questions/30675025/access-to-laravel-5-app-locally-from-an-external-device)
+- [Add helpers di laravel](https://laracasts.com/discuss/channels/general-discussion/best-practices-for-custom-helpers-on-laravel-5)
+- [Access laravel form external device](https://stackoverflow.com/questions/30675025/access-to-laravel-5-app-locally-from-an-external-device)
  
 ## NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
@@ -99,7 +94,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 ## Mocha
 - [How to test promise](http://stackoverflow.com/questions/15058847/how-to-test-promises-with-mocha)
 
-#Etc
+# Etc
 
 ## Sublime Text
 - [convert tabs to space](https://css-tricks.com/changing-spaces-tabs-sublime-text/)
