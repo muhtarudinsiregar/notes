@@ -31,6 +31,11 @@ http://www.tricedesigns.com/2012/07/31/emulating-phonegapcordova-apps-in-the-bro
 # Note
 setting/catatan/tutorial selama ini.
 
+## Android
+ 1. Cannot resolve symbol `FileUtils` in Codepath `Todo App` tutorial (Android)
+ 
+ https://stackoverflow.com/questions/38417848/cannot-resolve-symbol-fileutils-in-codepath-todo-app-tutorial-android
+
 ## Angular 2/4 or Ionic 
  1. Cant Resolve all parameter
  
