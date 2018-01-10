@@ -1,3 +1,17 @@
+
+## Note List
+
+> A note about my learning journey
+
+
+- Table of content
+    - [Android](#android)
+    - [Angular](#angular)
+    - [Codeigniter](#codeigniter)
+    - [Laravel](#laravel)
+    - [React Native](#react-native)
+    - [Tutorial](#tutorial)
+    
 # Tutorial
 
  1. Git Tips & Tricks
@@ -36,7 +50,7 @@ setting/catatan/tutorial selama ini.
  
  https://stackoverflow.com/questions/38417848/cannot-resolve-symbol-fileutils-in-codepath-todo-app-tutorial-android
 
-## Angular 2/4 or Ionic 
+## Angular
  1. Cant Resolve all parameter
  
  https://angular.io/guide/dependency-injection#configuring-the-injector
