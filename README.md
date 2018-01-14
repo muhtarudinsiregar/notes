@@ -30,6 +30,7 @@ setting/catatan/tutorial selama ini.
 
 ## Android
 - [Cannot resolve symbol `FileUtils` in Codepath `Todo App` tutorial (Android)]( https://stackoverflow.com/questions/38417848/cannot-resolve-symbol-fileutils-in-codepath-todo-app-tutorial-android)
+- [Cannot resolve symbol 'R' in Android studio](https://stackoverflow.com/questions/17054000/cannot-resolve-symbol-r-in-android-studio)
  
 ## Angular
 - [Cant Resolve all parameter](https://angular.io/guide/dependency-injection#configuring-the-injector)
