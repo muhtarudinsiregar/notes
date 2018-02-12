@@ -32,6 +32,7 @@ setting/catatan/tutorial selama ini.
 - [Cannot resolve symbol `FileUtils` in Codepath `Todo App` tutorial (Android)]( https://stackoverflow.com/questions/38417848/cannot-resolve-symbol-fileutils-in-codepath-todo-app-tutorial-android)
 - [Cannot resolve symbol 'R' in Android studio](https://stackoverflow.com/questions/17054000/cannot-resolve-symbol-r-in-android-studio)
 - [How to create empty constructor in data class kotlin](https://stackoverflow.com/questions/37873995/how-to-create-empty-constructor-for-data-class-in-kotlin-android)
+- [Android Webview gives net::ERR_CACHE_MISS message](https://stackoverflow.com/questions/30637654/android-webview-gives-neterr-cache-miss-message)
  
 ## Angular
 - [Cant Resolve all parameter](https://angular.io/guide/dependency-injection#configuring-the-injector)
