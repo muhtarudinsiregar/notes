@@ -74,16 +74,15 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
  ```
 
 - `ionic cordova platform add android` not update package.json for platform. Solve by using command `cordova platform add android@6.3.0` or if you already have platform, remove first, then add again. 
-
-
-## React Native
-- [error when run `npm start` in manjaro linux](https://github.com/react-community/create-react-native-app/issues/234)
-
  
 ## Codeigniter
 - [enable profiling globally](https://maheshvnit.wordpress.com/2013/10/23/how-to-enable-site-wide-profiling-in-codeigniter/)
 - [CodeIgniter 3.13 pagination url page number not working properly](http://stackoverflow.com/questions/10176518/codeigniter-pagination-url-page-number)
 - [Composer with Codeigniter](https://philsturgeon.uk/php/2012/05/07/composer-with-codeigniter/)
+
+## Kotlin 
+
+ - [Kotlin's List missing “add”, “remove” etc?](https://stackoverflow.com/questions/37913252/kotlins-list-missing-add-remove-etc)
 
 ## Laravel
 - [Event + Listener](http://dimensitutupbotol.blogspot.co.id/2016/10/simple-event-listener-example-in.html)
@@ -96,6 +95,10 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
  
 ## Mocha
 - [How to test promise](http://stackoverflow.com/questions/15058847/how-to-test-promises-with-mocha)
+
+## React Native
+- [error when run `npm start` in manjaro linux](https://github.com/react-community/create-react-native-app/issues/234)
+
 
 # Etc
 
