@@ -34,7 +34,7 @@ setting/catatan/tutorial selama ini.
 - [How to create empty constructor in data class kotlin](https://stackoverflow.com/questions/37873995/how-to-create-empty-constructor-for-data-class-in-kotlin-android)
 - [Android Webview gives net::ERR_CACHE_MISS message](https://stackoverflow.com/questions/30637654/android-webview-gives-neterr-cache-miss-message)
  
-## Angular
+## Angular/Ionic
 - [Cant Resolve all parameter](https://angular.io/guide/dependency-injection#configuring-the-injector)
 - [Get error body in observable](https://stackoverflow.com/questions/35669087/get-error-message-from-angular-2-http) 
 - [Ionic ion-img center](https://forum.ionicframework.com/t/how-to-align-the-img-to-center/48322/6) 
@@ -88,6 +88,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Event + Listener](http://dimensitutupbotol.blogspot.co.id/2016/10/simple-event-listener-example-in.html)
 - [Add helpers di laravel](https://laracasts.com/discuss/channels/general-discussion/best-practices-for-custom-helpers-on-laravel-5)
 - [Access laravel form external device](https://stackoverflow.com/questions/30675025/access-to-laravel-5-app-locally-from-an-external-device)
+- [Laravel command not found in manjaro](https://yomotherboard.com/how-to-add-laravel-directory-to-your-path-file/)
  
 ## NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
