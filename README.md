@@ -6,7 +6,7 @@
 
 - Table of content
     - [Android](#android)
-    - [Angular](#angular)
+    - [Angular/Ionic](#angular)
     - [Codeigniter](#codeigniter)
     - [Laravel](#laravel)
     - [React Native](#react-native)
@@ -28,13 +28,13 @@
 # Note
 setting/catatan/tutorial selama ini.
 
-## Android
+### Android
 - [Cannot resolve symbol `FileUtils` in Codepath `Todo App` tutorial (Android)]( https://stackoverflow.com/questions/38417848/cannot-resolve-symbol-fileutils-in-codepath-todo-app-tutorial-android)
 - [Cannot resolve symbol 'R' in Android studio](https://stackoverflow.com/questions/17054000/cannot-resolve-symbol-r-in-android-studio)
 - [How to create empty constructor in data class kotlin](https://stackoverflow.com/questions/37873995/how-to-create-empty-constructor-for-data-class-in-kotlin-android)
 - [Android Webview gives net::ERR_CACHE_MISS message](https://stackoverflow.com/questions/30637654/android-webview-gives-neterr-cache-miss-message)
  
-## Angular/Ionic
+### Angular
 - [Cant Resolve all parameter](https://angular.io/guide/dependency-injection#configuring-the-injector)
 - [Get error body in observable](https://stackoverflow.com/questions/35669087/get-error-message-from-angular-2-http) 
 - [Ionic ion-img center](https://forum.ionicframework.com/t/how-to-align-the-img-to-center/48322/6) 
@@ -75,38 +75,41 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 
 - `ionic cordova platform add android` not update package.json for platform. Solve by using command `cordova platform add android@6.3.0` or if you already have platform, remove first, then add again. 
  
-## Codeigniter
+### Codeigniter
 - [enable profiling globally](https://maheshvnit.wordpress.com/2013/10/23/how-to-enable-site-wide-profiling-in-codeigniter/)
 - [CodeIgniter 3.13 pagination url page number not working properly](http://stackoverflow.com/questions/10176518/codeigniter-pagination-url-page-number)
 - [Composer with Codeigniter](https://philsturgeon.uk/php/2012/05/07/composer-with-codeigniter/)
 
-## Kotlin 
+### Kotlin 
 
  - [Kotlin's List missing “add”, “remove” etc?](https://stackoverflow.com/questions/37913252/kotlins-list-missing-add-remove-etc)
 
-## Laravel
+### Laravel
 - [Event + Listener](http://dimensitutupbotol.blogspot.co.id/2016/10/simple-event-listener-example-in.html)
 - [Add helpers di laravel](https://laracasts.com/discuss/channels/general-discussion/best-practices-for-custom-helpers-on-laravel-5)
 - [Access laravel form external device](https://stackoverflow.com/questions/30675025/access-to-laravel-5-app-locally-from-an-external-device)
 - [Laravel command not found in manjaro](https://yomotherboard.com/how-to-add-laravel-directory-to-your-path-file/)
  
-## NPM
+### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
 - check global package list `npm list -g --depth=0`
  
-## Mocha
+### Mocha
 - [How to test promise](http://stackoverflow.com/questions/15058847/how-to-test-promises-with-mocha)
 
-## React Native
+### React Native
 - [error when run `npm start` in manjaro linux](https://github.com/react-community/create-react-native-app/issues/234)
 
 
-# Etc
+## Etc
 
-## Sublime Text
+### Sublime Text
 - [convert tabs to space](https://css-tricks.com/changing-spaces-tabs-sublime-text/)
+
+### VSCode
+- [PHPCS command not found in vscode](https://github.com/ikappas/vscode-phpcs/issues/14)
   
-## Manjaro Arch Linux
+### Manjaro Arch Linux
 - [Install android studio](https://www.youtube.com/watch?v=46LPHga49xk) 
 - [NVM command not found in zsh](https://github.com/creationix/nvm/issues/576)
 - [Set JAVA_HOME](https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-all-users)
