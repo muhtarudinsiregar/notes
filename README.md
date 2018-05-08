@@ -25,6 +25,8 @@
 )
 - [Remove and Add selected value in ion-checkbox multiple]( https://forum.ionicframework.com/t/how-to-delete-multiple-item-from-ionic-3-3-list/92783/3)
 
+- [Set environtment variable based on respon in postman](https://ppolyzos.com/2016/11/20/how-to-update-environment-variables-based-on-a-response-in-postman/)
+
 
 # Note
 setting/catatan/tutorial selama ini.
