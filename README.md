@@ -96,6 +96,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Access laravel form external device](https://stackoverflow.com/questions/30675025/access-to-laravel-5-app-locally-from-an-external-device)
 - [Laravel command not found in manjaro](https://yomotherboard.com/how-to-add-laravel-directory-to-your-path-file/)
 - [Combine multiple sass files in one file](https://stackoverflow.com/questions/48935216/how-combine-two-sass-files-in-one-css-file-via-laravel-mix)
+- [Associate function return null](https://stackoverflow.com/questions/27116924/call-to-a-member-function-associate-on-a-non-object?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
