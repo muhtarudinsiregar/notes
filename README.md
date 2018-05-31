@@ -97,6 +97,8 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Laravel command not found in manjaro](https://yomotherboard.com/how-to-add-laravel-directory-to-your-path-file/)
 - [Combine multiple sass files in one file](https://stackoverflow.com/questions/48935216/how-combine-two-sass-files-in-one-css-file-via-laravel-mix)
 - [Associate function return null](https://stackoverflow.com/questions/27116924/call-to-a-member-function-associate-on-a-non-object?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+- [Fix Laravel Datatable editColumn rendering as Text](https://github.com/yajra/laravel-datatables/issues/972)
+- [How to Pass Model Data Into Laravel datatable addColumn](https://github.com/yajra/laravel-datatables/issues/1348)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
