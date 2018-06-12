@@ -100,6 +100,9 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Fix Laravel Datatable editColumn rendering as Text](https://github.com/yajra/laravel-datatables/issues/972)
 - [How to Pass Model Data Into Laravel datatable addColumn](https://github.com/yajra/laravel-datatables/issues/1348)
 - [Trying to get property of non-object in ClientRepository.php (line 80) ](https://github.com/laravel/passport/issues/406)
+- Fix Error form request validation in REST Api laravel return `This action is unauthorized.` 
+    * In postman headers, add `Accept : application/json`.
+    * Then in your form request, change `authorize()` to return `true`.
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
