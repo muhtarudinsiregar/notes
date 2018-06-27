@@ -103,6 +103,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - Fix Error form request validation in REST Api laravel return `This action is unauthorized.` 
     * In postman headers, add `Accept : application/json`.
     * Then in your form request, change `authorize()` to return `true`.
+- [assertDatabaseHas does not exist in laravel](https://laracasts.com/discuss/channels/testing/assertdatabasehas-does-not-exist)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
