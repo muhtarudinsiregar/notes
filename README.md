@@ -130,3 +130,5 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Set JAVA_HOME](https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-all-users)
 - [Android device adb always unauthorized on linux/Mac](https://stackoverflow.com/questions/32672183/android-device-adb-always-unauthorized-on-linux-mac
 )
+- Ruby command not found? solution: `eval "$(rbenv init -)"`
+
