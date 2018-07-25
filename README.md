@@ -104,6 +104,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
     * In postman headers, add `Accept : application/json`.
     * Then in your form request, change `authorize()` to return `true`.
 - [assertDatabaseHas does not exist in laravel](https://laracasts.com/discuss/channels/testing/assertdatabasehas-does-not-exist)
+- [Auth - User must implement CanResetPassword interface](https://github.com/jenssegers/laravel-mongodb/issues/773)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
