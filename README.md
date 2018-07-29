@@ -86,6 +86,9 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 ### Docker
 - [Install and Run Docker in manjaro](https://manjaro-tutorial.blogspot.co.id/2016/12/how-to-install-docker-on-manjaro-1610.html)
 - [Laradock mysql exited with code 2](https://github.com/laradock/laradock/issues/955)
+
+- [Elasticsearch Container Stopped with `Exit 78`](https://github.com/laradock/laradock/issues/1699)
+
 ### Kotlin 
 
  - [Kotlin's List missing “add”, “remove” etc?](https://stackoverflow.com/questions/37913252/kotlins-list-missing-add-remove-etc)
