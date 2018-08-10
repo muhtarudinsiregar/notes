@@ -108,6 +108,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
     * Then in your form request, change `authorize()` to return `true`.
 - [assertDatabaseHas does not exist in laravel](https://laracasts.com/discuss/channels/testing/assertdatabasehas-does-not-exist)
 - [Auth - User must implement CanResetPassword interface](https://github.com/jenssegers/laravel-mongodb/issues/773)
+- [yarn run hot "ENOENT: no such file or directory"](https://github.com/JeffreyWay/laravel-mix/issues/1176)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
