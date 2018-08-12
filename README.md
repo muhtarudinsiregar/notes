@@ -12,6 +12,7 @@
     - [Laravel](#laravel)
     - [React Native](#react-native)
     - [Tutorial](#tutorial)
+    - [VueJS](#vue)
     
 # Tutorial
 
@@ -120,6 +121,8 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 ### React Native
 - [error when run `npm start` in manjaro linux](https://github.com/react-community/create-react-native-app/issues/234)
 
+### Vue
+- [VueJS child component event emitter](https://medium.com/@codetheorist/vuejs-child-components-event-emitters-88863e555ea1)
 
 ## Etc
 
