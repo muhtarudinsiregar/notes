@@ -28,6 +28,8 @@
 
 - [Set environtment variable based on respon in postman](https://ppolyzos.com/2016/11/20/how-to-update-environment-variables-based-on-a-response-in-postman/)
 
+- [Laravel eloquent resources standalone data](https://stackoverflow.com/questions/46388205/laravel-5-5-api-resources-for-collections-standalone-data)
+
 
 # Note
 setting/catatan/tutorial selama ini.
