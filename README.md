@@ -120,6 +120,9 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 ### Mocha
 - [How to test promise](http://stackoverflow.com/questions/15058847/how-to-test-promises-with-mocha)
 
+### Rails
+- [First argument in form cannot contain nil](https://stackoverflow.com/questions/18853721/first-argument-in-form-cannot-contain-nil-or-be-empty-rails-4)
+
 ### React Native
 - [error when run `npm start` in manjaro linux](https://github.com/react-community/create-react-native-app/issues/234)
 
