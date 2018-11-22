@@ -31,6 +31,8 @@
 
 - [Laravel eloquent resources standalone data](https://stackoverflow.com/questions/46388205/laravel-5-5-api-resources-for-collections-standalone-data)
 
+- [Create packages in laravel](https://pusher.com/tutorials/publish-laravel-packagist)
+
 
 # Note
 setting/catatan/tutorial selama ini.
