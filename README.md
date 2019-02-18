@@ -129,6 +129,10 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 ### React Native
 - [error when run `npm start` in manjaro linux](https://github.com/react-community/create-react-native-app/issues/234)
 
+### SQLAlchemy
+- AttributeError: '_UnboundLoad' object has no attribute 'joinedLoad'
+* Fix : fungsi joined**L**oad tidak ada, adanya joinedload() dengan huruf L kecil.
+
 ### Vue
 - [VueJS child component event emitter](https://medium.com/@codetheorist/vuejs-child-components-event-emitters-88863e555ea1)
 
