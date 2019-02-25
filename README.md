@@ -95,6 +95,11 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 
 - [Elasticsearch Container Stopped with `Exit 78`](https://github.com/laradock/laradock/issues/1699)
 
+### Flask
+- (Solved) Jangan lupa return app di tutorial ini [http://flask.pocoo.org/docs/1.0/tutorial/factory/](http://flask.pocoo.org/docs/1.0/tutorial/factory/)
+    
+    flask.cli.NoAppException: Failed to find Flask application or factory in module
+
 ### Kotlin 
 
  - [Kotlin's List missing “add”, “remove” etc?](https://stackoverflow.com/questions/37913252/kotlins-list-missing-add-remove-etc)
