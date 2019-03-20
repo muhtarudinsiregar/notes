@@ -120,6 +120,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [assertDatabaseHas does not exist in laravel](https://laracasts.com/discuss/channels/testing/assertdatabasehas-does-not-exist)
 - [Auth - User must implement CanResetPassword interface](https://github.com/jenssegers/laravel-mongodb/issues/773)
 - [yarn run hot "ENOENT: no such file or directory"](https://github.com/JeffreyWay/laravel-mix/issues/1176)
+- [aravel.log could not be opened: failed to open stream: Permission denied](https://stackoverflow.com/questions/23411520/how-to-fix-error-laravel-log-could-not-be-opened)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
