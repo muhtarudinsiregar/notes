@@ -121,6 +121,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Auth - User must implement CanResetPassword interface](https://github.com/jenssegers/laravel-mongodb/issues/773)
 - [yarn run hot "ENOENT: no such file or directory"](https://github.com/JeffreyWay/laravel-mix/issues/1176)
 - [Laravel.log could not be opened: failed to open stream: Permission denied](https://stackoverflow.com/questions/23411520/how-to-fix-error-laravel-log-could-not-be-opened)
+- [Image wont load after upload image](https://github.com/spatie/laravel-medialibrary/issues/1312)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
