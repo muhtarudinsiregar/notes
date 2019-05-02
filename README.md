@@ -124,6 +124,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [yarn run hot "ENOENT: no such file or directory"](https://github.com/JeffreyWay/laravel-mix/issues/1176)
 - [Laravel.log could not be opened: failed to open stream: Permission denied](https://stackoverflow.com/questions/23411520/how-to-fix-error-laravel-log-could-not-be-opened)
 - [Image wont load after upload image](https://github.com/spatie/laravel-medialibrary/issues/1312)
+- [laravel-5 passing variable to JavaScript](https://stackoverflow.com/questions/15617164/parsing-json-giving-unexpected-token-o-error)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
