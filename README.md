@@ -125,6 +125,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Laravel.log could not be opened: failed to open stream: Permission denied](https://stackoverflow.com/questions/23411520/how-to-fix-error-laravel-log-could-not-be-opened)
 - [Image wont load after upload image](https://github.com/spatie/laravel-medialibrary/issues/1312)
 - [laravel-5 passing variable to JavaScript](https://stackoverflow.com/questions/15617164/parsing-json-giving-unexpected-token-o-error)
+- [There is no existing directory at /storage/logs and its not buildable: Permission denied](https://stackoverflow.com/questions/51041196/there-is-no-existing-directory-at-storage-logs-and-its-not-buildable-permissio)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
