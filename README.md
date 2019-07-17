@@ -102,6 +102,8 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
     flask.cli.NoAppException: Failed to find Flask application or factory in module
  - [Flask WTForm stringfield has no attribute translate](https://stackoverflow.com/questions/36930346/flask-wtf-stringfield-object-has-no-attribute-translate
 )
+- (SOLVED) check your class in routes. maybe you have type when you call that class in routes. `type object 'Tag' has no attribute 'as_view'`
+
 ### Kotlin 
 
  - [Kotlin's List missing “add”, “remove” etc?](https://stackoverflow.com/questions/37913252/kotlins-list-missing-add-remove-etc)
