@@ -128,6 +128,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Image wont load after upload image](https://github.com/spatie/laravel-medialibrary/issues/1312)
 - [laravel-5 passing variable to JavaScript](https://stackoverflow.com/questions/15617164/parsing-json-giving-unexpected-token-o-error)
 - [There is no existing directory at /storage/logs and its not buildable: Permission denied](https://stackoverflow.com/questions/51041196/there-is-no-existing-directory-at-storage-logs-and-its-not-buildable-permissio)
+- [How to handle multiple file inputs with addMediaFromRequest?](https://github.com/spatie/laravel-medialibrary/issues/227#issuecomment-220794240)
  
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
