@@ -33,6 +33,7 @@
 - [Laravel eloquent resources standalone data](https://stackoverflow.com/questions/46388205/laravel-5-5-api-resources-for-collections-standalone-data)
 
 - [Create packages in laravel](https://pusher.com/tutorials/publish-laravel-packagist)
+- [How to Use phpunit for module](https://github.com/nWidart/laravel-modules/issues/458#issuecomment-355967729)
 
 
 # Note
