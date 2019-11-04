@@ -34,6 +34,7 @@
 
 - [Create packages in laravel](https://pusher.com/tutorials/publish-laravel-packagist)
 - [How to Use phpunit for module](https://github.com/nWidart/laravel-modules/issues/458#issuecomment-355967729)
+- [How to revert initial git commit](https://stackoverflow.com/questions/6632191/how-to-revert-initial-git-commit)
 
 
 # Note
