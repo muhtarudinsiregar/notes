@@ -104,7 +104,8 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
     flask.cli.NoAppException: Failed to find Flask application or factory in module
  - [Flask WTForm stringfield has no attribute translate](https://stackoverflow.com/questions/36930346/flask-wtf-stringfield-object-has-no-attribute-translate
 )
-- (SOLVED) check your class in routes. maybe you have type when you call that class in routes. `type object 'Tag' has no attribute 'as_view'`
+- (SOLVED) check your class in routes. maybe you have type when you call that class in routes. `type object 'Tag' has no attribute 'as_view'` 
+- (SOLVED) (Flask-Migration) try to drop all table or run test, then try to migrate again.Error terjadi ketika jalankan migrate utk migration file, karena alembic_version yg di db local tidak update dengan file migrate yg ada.  ERROR [root] Error: Can't locate revision identified by <revision_id>. Referensi https://stackoverflow.com/questions/32311366/alembic-util-command-error-cant-find-identifier
 
 ### Kotlin 
 
