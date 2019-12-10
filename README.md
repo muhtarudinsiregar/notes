@@ -107,6 +107,9 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - (SOLVED) check your class in routes. maybe you have type when you call that class in routes. `type object 'Tag' has no attribute 'as_view'` 
 - (SOLVED) (Flask-Migration) try to drop all table or run test, then try to migrate again.Error terjadi ketika jalankan migrate utk migration file, karena alembic_version yg di db local tidak update dengan file migrate yg ada.  ERROR [root] Error: Can't locate revision identified by <revision_id>. Referensi https://stackoverflow.com/questions/32311366/alembic-util-command-error-cant-find-identifier
 
+- (SOLVED)(How to fix SQLAlchemy: SAWarning: DELETE statement on table expected to delete 1 row(s); 0 were matched
+)[https://stackoverflow.com/questions/36002638/how-to-fix-sqlalchemy-sawarning-delete-statement-on-table-expected-to-delete-1/43181206]
+
 ### Kotlin 
 
  - [Kotlin's List missing “add”, “remove” etc?](https://stackoverflow.com/questions/37913252/kotlins-list-missing-add-remove-etc)
