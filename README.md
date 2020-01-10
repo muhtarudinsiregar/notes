@@ -140,7 +140,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
 - check global package list `npm list -g --depth=0`
- 
+
 ### Mocha
 - [How to test promise](http://stackoverflow.com/questions/15058847/how-to-test-promises-with-mocha)
 
@@ -151,8 +151,8 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [error when run `npm start` in manjaro linux](https://github.com/react-community/create-react-native-app/issues/234)
 
 ### SQLAlchemy
-- AttributeError: '_UnboundLoad' object has no attribute 'joinedLoad'
-* Fix : fungsi joined**L**oad tidak ada, adanya joinedload() dengan huruf L kecil.
+- AttributeError: '_UnboundLoad' object has no attribute 'joinedLoad'. Fix : fungsi joined**L**oad tidak ada, adanya joinedload() dengan huruf L kecil.
+- (SOLVED) SAWarning: DELETE statement on table `t_users`. This warning appears because you run multiple delete in same data.In my case, check fixtures.
 
 ### Vue
 - [VueJS child component event emitter](https://medium.com/@codetheorist/vuejs-child-components-event-emitters-88863e555ea1)
