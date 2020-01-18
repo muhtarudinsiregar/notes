@@ -173,4 +173,4 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Android device adb always unauthorized on linux/Mac](https://stackoverflow.com/questions/32672183/android-device-adb-always-unauthorized-on-linux-mac
 )
 - Ruby command not found? solution: `eval "$(rbenv init -)"`
-
+- (SOLVED)[Could not open file /var/lib/pacman/sync/extra.db: gzip decompression failed](https://manjaro-tutorial.blogspot.com/2017/06/how-to-fix-error-could-not-open-file.html)
