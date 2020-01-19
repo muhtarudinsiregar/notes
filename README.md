@@ -137,7 +137,8 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [How to handle multiple file inputs with addMediaFromRequest?](https://github.com/spatie/laravel-medialibrary/issues/227#issuecomment-220794240)
 - [Laravel 6 proc_open](https://github.com/laravel/framework/issues/30054)
 - [Laravel mix: fontawesome webfonts not found when loads](https://github.com/JeffreyWay/laravel-mix/issues/1292#issuecomment-401600344)
- 
+ -(SOLVED) `Laravel mix: error in /app.scss missing missing '{']`. Add `processCssUrls: false` in mix options.
+
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
 - check global package list `npm list -g --depth=0`
