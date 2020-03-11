@@ -97,6 +97,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Laradock mysql exited with code 2](https://github.com/laradock/laradock/issues/955)
 
 - [Elasticsearch Container Stopped with `Exit 78`](https://github.com/laradock/laradock/issues/1699)
+- [manifest error when pulling a docker image](https://github.com/sylabs/singularity/issues/2825)
 
 ### Flask
 - (Solved) Jangan lupa return app di tutorial ini [http://flask.pocoo.org/docs/1.0/tutorial/factory/](http://flask.pocoo.org/docs/1.0/tutorial/factory/)
