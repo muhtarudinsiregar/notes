@@ -9,6 +9,7 @@
     - [Angular/Ionic](#angular)
     - [Codeigniter](#codeigniter)
     - [Docker](#docker)
+    - [Elasticsearch](#elasticsearch)
     - [Flask/Python](#flask)
     - [Laravel](#laravel)
     - [Ruby on Rails](#rails)
@@ -98,6 +99,9 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 
 - [Elasticsearch Container Stopped with `Exit 78`](https://github.com/laradock/laradock/issues/1699)
 - [manifest error when pulling a docker image](https://github.com/sylabs/singularity/issues/2825)
+
+### Flask
+- [Elasticsearch combine bool and fuzzy query](https://discuss.elastic.co/t/combine-bool-and-fuzzy-query/144550)
 
 ### Flask
 - (Solved) Jangan lupa return app di tutorial ini [http://flask.pocoo.org/docs/1.0/tutorial/factory/](http://flask.pocoo.org/docs/1.0/tutorial/factory/)
