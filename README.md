@@ -101,7 +101,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [manifest error when pulling a docker image](https://github.com/sylabs/singularity/issues/2825)
 
 ### Flask
-- [Elasticsearch combine bool and fuzzy query](https://discuss.elastic.co/t/combine-bool-and-fuzzy-query/144550)
+- [Elasticsearch fuzzy search query with specification](https://discuss.elastic.co/t/fuzzy-search-query-with-specification/92918/4)
 
 ### Flask
 - (Solved) Jangan lupa return app di tutorial ini [http://flask.pocoo.org/docs/1.0/tutorial/factory/](http://flask.pocoo.org/docs/1.0/tutorial/factory/)
