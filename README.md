@@ -102,7 +102,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 
 ### Elasticsearch
 - [Elasticsearch fuzzy search query with specification](https://discuss.elastic.co/t/fuzzy-search-query-with-specification/92918/4)
-- (SOLVED) [got an unexpected keyword argument 'data_only'](https://github.com/elastic/elasticsearch-dsl-py/issues/1122)
+- **(SOLVED)** [got an unexpected keyword argument 'data_only'](https://github.com/elastic/elasticsearch-dsl-py/issues/1122)
 
 ### Flask
 - (Solved) Jangan lupa return app di tutorial ini [http://flask.pocoo.org/docs/1.0/tutorial/factory/](http://flask.pocoo.org/docs/1.0/tutorial/factory/)
