@@ -144,6 +144,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 - [Laravel 6 proc_open](https://github.com/laravel/framework/issues/30054)
 - [Laravel mix: fontawesome webfonts not found when loads](https://github.com/JeffreyWay/laravel-mix/issues/1292#issuecomment-401600344)
  -(SOLVED) `Laravel mix: error in /app.scss missing missing '{']`. Add `processCssUrls: false` in mix options.
+ -(SOLVED) [VM2912:1 Uncaught SyntaxError: Invalid or unexpected token ](https://github.com/livewire/livewire/issues/335)
 
 ### NPM
 - [Create global nodejs module](http://gitmeet.com/post/how-to-create-a-node-js-global-module)
