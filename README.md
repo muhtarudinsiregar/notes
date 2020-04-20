@@ -10,8 +10,9 @@
     - [Codeigniter](#codeigniter)
     - [Docker](#docker)
     - [Elasticsearch](#elasticsearch)
-    - [Flask/Python](#flask)
+    - [Flask](#flask)
     - [Laravel](#laravel)
+    - [Python](#python)
     - [Ruby on Rails](#rails)
     - [React Native](#react-native)
     - [Tutorial](#tutorial)
@@ -152,6 +153,9 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 
 ### Mocha
 - [How to test promise](http://stackoverflow.com/questions/15058847/how-to-test-promises-with-mocha)
+
+### Python
+- [Python 3 list(dictionary.keys()) raises error in PDB](https://stackoverflow.com/questions/23050172/python-3-listdictionary-keys-raises-error-what-am-i-doing-wrong/23050282)
 
 ### Rails
 - [First argument in form cannot contain nil](https://stackoverflow.com/questions/18853721/first-argument-in-form-cannot-contain-nil-or-be-empty-rails-4)
