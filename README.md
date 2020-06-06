@@ -11,6 +11,7 @@
     - [Docker](#docker)
     - [Elasticsearch](#elasticsearch)
     - [Flask](#flask)
+    - [JS](#js)
     - [Laravel](#laravel)
     - [Python](#python)
     - [Ruby on Rails](#rails)
@@ -116,6 +117,9 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 
 - (SOLVED)(How to fix SQLAlchemy: SAWarning: DELETE statement on table expected to delete 1 row(s); 0 were matched
 )[https://stackoverflow.com/questions/36002638/how-to-fix-sqlalchemy-sawarning-delete-statement-on-table-expected-to-delete-1/43181206]
+
+### JS
+- [Sort list by specific sort order](https://stackoverflow.com/questions/46781765/js-sort-by-specific-sort-order)
 
 ### Kotlin 
 
