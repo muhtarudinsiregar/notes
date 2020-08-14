@@ -173,6 +173,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 
 ### Vue
 - [VueJS child component event emitter](https://medium.com/@codetheorist/vuejs-child-components-event-emitters-88863e555ea1)
+- [Axios catch error returns javascript error not server response](https://github.com/axios/axios/issues/960#issuecomment-309287911)
 
 ## Etc
 
