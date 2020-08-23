@@ -101,6 +101,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 
 - [Elasticsearch Container Stopped with `Exit 78`](https://github.com/laradock/laradock/issues/1699)
 - [manifest error when pulling a docker image](https://github.com/sylabs/singularity/issues/2825)
+- [ERROR: Couldn't connect to Docker daemon at http+docker://localunixsocket - is it running?](https://github.com/docker/compose/issues/4181)
 
 ### Elasticsearch
 - [Elasticsearch fuzzy search query with specification](https://discuss.elastic.co/t/fuzzy-search-query-with-specification/92918/4)
