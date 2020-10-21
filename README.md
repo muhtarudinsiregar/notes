@@ -16,6 +16,7 @@
     - [Python](#python)
     - [Ruby on Rails](#rails)
     - [React Native](#react-native)
+    - [SQLAlchemy](#sqlalchemy)
     - [Tutorial](#tutorial)
     - [VueJS](#vue)
     
@@ -172,6 +173,7 @@ Module build failed: TypeError: Cannot read property 'type' of undefined](  http
 ### SQLAlchemy
 - AttributeError: '_UnboundLoad' object has no attribute 'joinedLoad'. Fix : fungsi joined**L**oad tidak ada, adanya joinedload() dengan huruf L kecil.
 - (SOLVED) SAWarning: DELETE statement on table `t_users`. This warning appears because you run multiple delete in same data.In my case, check fixtures.
+- [Beware of JSON fields in sqlalchemy](https://amercader.net/blog/beware-of-json-fields-in-sqlalchemy/)
 
 ### Vue
 - [VueJS child component event emitter](https://medium.com/@codetheorist/vuejs-child-components-event-emitters-88863e555ea1)
